@@ -1,0 +1,7 @@
+kivy
+kivymd
+torch
+torchvision
+pillow
+numpy
+gtts
