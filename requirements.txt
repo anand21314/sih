@@ -1,7 +1,10 @@
-kivy
-kivymd
+streamlit
 torch
 torchvision
+timm
 pillow
 numpy
-gtts
+pandas
+scikit-learn
+matplotlib
+
